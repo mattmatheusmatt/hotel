@@ -1,0 +1,5 @@
+#3F46C2 cor do fundo
+
+#6085FF cor dos dados
+
+#222BBC cor do painel (14% de transparencia)
