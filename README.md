@@ -8,3 +8,5 @@ Esse projeto visa gerar conhecimento sobre o comportamento dos clientes de um gr
 
 [Base de dados](https://www.sciencedirect.com/science/article/pii/S2352340918315191)
 
+[Relatório online](https://app.powerbi.com/view?r=eyJrIjoiYmVmYjc1MmYtYzRmNi00MjYwLThlNDktNDU2ZDY4MDlmYjAwIiwidCI6ImM4MjQ3MmYwLTNiNGItNDE4My04Yzk1LTZhMTVjZjMwZGVkYiJ9&pageName=ReportSection)
+
